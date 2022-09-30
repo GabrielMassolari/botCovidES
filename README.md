@@ -2,7 +2,7 @@
 
 
 * Este foi um projeto realizado nos anos de 2020/2021, durante a pandemia, para que seja possível consultar o número de casos por cidade no estado
-do Espírito Santo. Para isso, foi utilizado a [base de dados](https://coronavirus.es.gov.br/painel-covid-19-es) fornecidade pelo Governo do Estado que possui todas as informações dos casos de Covid. Sendo realizado a coleta e o tratamento destes dados para o fornecimento de informações ao usuário.
+do Espírito Santo. Para isso, foi utilizado a [base de dados](https://coronavirus.es.gov.br/painel-covid-19-es) fornecida pelo Governo do Estado que possui todas as informações dos casos de Covid. Sendo realizado a coleta e o tratamento destes dados para o fornecimento de informações ao usuário.
 
 ## :scroll:	Funcionalidades
 - Consulta dos dados via **CEP**.
@@ -23,7 +23,7 @@ do Espírito Santo. Para isso, foi utilizado a [base de dados](https://coronavir
 
 ## :computer_mouse: Demonstração do Sistema
 
-<img src="https://user-images.githubusercontent.com/101357910/193175175-a032579e-c4b3-4b80-af28-a91ad0150e19.gif" width="45%" height="45%"/>
+<img src="https://user-images.githubusercontent.com/101357910/193175175-a032579e-c4b3-4b80-af28-a91ad0150e19.gif" width="50%" height="50%"/>
 
 ---
 
